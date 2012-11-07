@@ -1,0 +1,5 @@
+- Nama Issue
+- Penanggung Jawab Issue
+- Penentuan mulai dan deadline pengerjaan issue
+- Link download 
+- Gambar tampilan antarmuka aplikasi terkait issue
