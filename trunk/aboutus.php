@@ -47,4 +47,3 @@ Atau yang ingin menambah Omzet penjualan untuk produknya Ayo bergabung bersama k
 		<?php
 			include 'aboutus_db.php';
 			$db = new aboutus_db();
-			
