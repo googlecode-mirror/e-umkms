@@ -4,6 +4,6 @@
 	if(!con) {
 		die('gak konek !' . mysql_error());
 	}
-	mysql_select_db("e-umkms", $con);
+	mysql_select_db("umkms", $con);
 	mysql_close($con);
 ?>
