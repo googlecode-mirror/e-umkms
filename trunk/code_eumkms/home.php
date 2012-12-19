@@ -308,19 +308,7 @@
           <div class="container">
             <div class="carousel-caption">
               <div class="page-header">
-  <center><h3>About Us<small><br>Ecommers-Usaha Mikro Kecil Menengah</br></small></h3></center>
 
-<p align ="center">Ecommers-Usaha Mikro Kecil Menengah adalah Media Promosi Online khususnya terletak Surabaya. Disini kami menghadirkan untuk memberikan 	solusi bagi yang terkendala pada masalah promosi untuk mengenalkan produk UMKM yang ada di Surabaya.</p><p align ="center">Oleh karena itu kami memberikan Sarana Promosi GRATIS untuk para pelaku 
-UMKM sehingga kami bisa membantu mengenalkan Produk – produk UMKM kita khususnya untuk wilayah Surabaya sehingga bisa membantu mengenalkan 
-Produk UMKM di Seluruh Indonesia yang mana secara Otomatis akan menambahkan pula omset penjualan bagi para pelaku UMKM kita. Disini kami 
-memberikan sarana promosi GRATIS sehingga kami bisa membantu para pelaku UMKM agar mereka dapat lagi bersemangat dengan menambah kreatifitas 
-untuk menambah jumlah produk sehingga kota Surabaya pada khususnya bisa memperkenalkan Produk UMKM sendiri tanpa harus kita menunggu lebih 
-lama lagi.</p> <p align ="center">Saatnya UMKM berjaya di Negeri sendiri sehingga kita bersama-sama siap untuk menghadapi perdagangan bebas yang akan masuk ke Indonesia.
-Saatnya Memperkenalkan Produk UMKM kita agar bisa berjaya di Tanah Air Sendiri ini adalah salah satu pembuktian bahwa Produk 
-UMKM kita tidaklah kalah dengan Produk Luar. Melalui UMKM Surabaya ini kami berniat membantu untuk mempromosikan Produk UMKM khususnya 
-Surabaya dan sekitarnya sehingga saatnya untuk Bagi Anda yang ingin memperluas pemasaran hingga di Seluruh Indonesia disinilah tempatnya 
-Atau yang ingin menambah Omzet penjualan untuk produknya Ayo bergabung bersama kami di UMKM Surabaya.</p>
-<br>
               <a class="btn btn-large btn-primary" href="#">Login</a>
 			  <a class="btn btn-large btn-primary" href="#">Daftar</a>
             </div>
@@ -330,7 +318,7 @@ Atau yang ingin menambah Omzet penjualan untuk produknya Ayo bergabung bersama k
           <img src="static/img/slide02.jpg" alt="">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Another example headline.</h1>
+			<h1>Another example headline.</h1>
               <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
               <a class="btn btn-large btn-primary" href="#">Learn more</a>
             </div>
@@ -340,8 +328,9 @@ Atau yang ingin menambah Omzet penjualan untuk produknya Ayo bergabung bersama k
           <img src="static/img/slide03.jpg" alt="">
           <div class="container">
             <div class="carousel-caption">
-              <h1>One more for good measure.</h1>
-              <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+                <center><h3>About Us<small><br>Ecommers-Usaha Mikro Kecil Menengah</br></small></h3></center>
+
+			<p align ="center">Ecommers-Usaha Mikro Kecil Menengah adalah Media Promosi Online khususnya terletak Surabaya. Disini kami menghadirkan untuk memberikan 	solusi bagi yang terkendala pada masalah promosi untuk mengenalkan produk UMKM yang ada di Surabaya.</p><p align ="center">Oleh karena itu kami memberikan Sarana Promosi GRATIS untuk para pelaku UMKM sehingga kami bisa membantu mengenalkan Produk – produk UMKM kita khususnya untuk wilayah Surabaya sehingga bisa membantu mengenalkan Produk UMKM di Seluruh Indonesia yang mana secara Otomatis akan menambahkan pula omset penjualan bagi para pelaku UMKM kita. Disini kami memberikan sarana promosi GRATIS sehingga kami bisa membantu para pelaku UMKM agar mereka dapat lagi bersemangat dengan menambah kreatifitas untuk menambah jumlah produk sehingga kota Surabaya pada khususnya bisa memperkenalkan Produk UMKM sendiri tanpa harus kita menunggu lebih lama lagi.</p> <p align ="center">Saatnya UMKM berjaya di Negeri sendiri sehingga kita bersama-sama siap untuk menghadapi perdagangan bebas yang akan masuk ke Indonesia. Saatnya Memperkenalkan Produk UMKM kita agar bisa berjaya di Tanah Air Sendiri ini adalah salah satu pembuktian bahwa Produk UMKM kita tidaklah kalah dengan Produk Luar. Melalui UMKM Surabaya ini kami berniat membantu untuk mempromosikan Produk UMKM khususnya Surabaya dan sekitarnya sehingga saatnya untuk Bagi Anda yang ingin memperluas pemasaran hingga di Seluruh Indonesia disinilah tempatnya Atau yang ingin menambah Omzet penjualan untuk produknya Ayo bergabung bersama kami di UMKM Surabaya.</p><br>
               <a class="btn btn-large btn-primary" href="#">Browse gallery</a>
             </div>
           </div>
@@ -350,8 +339,6 @@ Atau yang ingin menambah Omzet penjualan untuk produknya Ayo bergabung bersama k
       <a class="left carousel-control" href="#myCarousel" data-slide="prev">&lsaquo;</a>
       <a class="right carousel-control" href="#myCarousel" data-slide="next">&rsaquo;</a>
     </div><!-- /.carousel -->
-
-
 
     <!-- Marketing messaging and featurettes
     ================================================== -->
@@ -389,8 +376,21 @@ Atau yang ingin menambah Omzet penjualan untuk produknya Ayo bergabung bersama k
       <div class="featurette">
         <img class="featurette-image pull-right" src="static/docs/assets/img/examples/browser-icon-chrome.png">
         <h2 class="featurette-heading">First featurette headling. <span class="muted">It'll blow your mind.</span></h2>
-        <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+        <p class="lead">  <center><h3>About Us<small><br>Ecommers-Usaha Mikro Kecil Menengah</br></small></h3></center>
+
+<p align ="center">Ecommers-Usaha Mikro Kecil Menengah adalah Media Promosi Online khususnya terletak Surabaya. Disini kami menghadirkan untuk memberikan 	solusi bagi yang terkendala pada masalah promosi untuk mengenalkan produk UMKM yang ada di Surabaya.</p><p align ="center">Oleh karena itu kami memberikan Sarana Promosi GRATIS untuk para pelaku 
+UMKM sehingga kami bisa membantu mengenalkan Produk – produk UMKM kita khususnya untuk wilayah Surabaya sehingga bisa membantu mengenalkan 
+Produk UMKM di Seluruh Indonesia yang mana secara Otomatis akan menambahkan pula omset penjualan bagi para pelaku UMKM kita. Disini kami 
+memberikan sarana promosi GRATIS sehingga kami bisa membantu para pelaku UMKM agar mereka dapat lagi bersemangat dengan menambah kreatifitas 
+untuk menambah jumlah produk sehingga kota Surabaya pada khususnya bisa memperkenalkan Produk UMKM sendiri tanpa harus kita menunggu lebih 
+lama lagi.</p> <p align ="center">Saatnya UMKM berjaya di Negeri sendiri sehingga kita bersama-sama siap untuk menghadapi perdagangan bebas yang akan masuk ke Indonesia.
+Saatnya Memperkenalkan Produk UMKM kita agar bisa berjaya di Tanah Air Sendiri ini adalah salah satu pembuktian bahwa Produk 
+UMKM kita tidaklah kalah dengan Produk Luar. Melalui UMKM Surabaya ini kami berniat membantu untuk mempromosikan Produk UMKM khususnya 
+Surabaya dan sekitarnya sehingga saatnya untuk Bagi Anda yang ingin memperluas pemasaran hingga di Seluruh Indonesia disinilah tempatnya 
+Atau yang ingin menambah Omzet penjualan untuk produknya Ayo bergabung bersama kami di UMKM Surabaya.</p>
+<br></p>
       </div>
+	  
 
       <hr class="featurette-divider">
 
