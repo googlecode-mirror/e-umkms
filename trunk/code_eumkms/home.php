@@ -375,8 +375,7 @@
 
       <div class="featurette">
         <img class="featurette-image pull-right" src="static/docs/assets/img/examples/browser-icon-chrome.png">
-        <h2 class="featurette-heading">First featurette headling. <span class="muted">It'll blow your mind.</span></h2>
-        <p class="lead">  <center><h3>About Us<small><br>Ecommers-Usaha Mikro Kecil Menengah</br></small></h3></center>
+        <h2>About Us<small><br>Ecommers-Usaha Mikro Kecil Menengah</br></h2>
 
 <p align ="center">Ecommers-Usaha Mikro Kecil Menengah adalah Media Promosi Online khususnya terletak Surabaya. Disini kami menghadirkan untuk memberikan 	solusi bagi yang terkendala pada masalah promosi untuk mengenalkan produk UMKM yang ada di Surabaya.</p><p align ="center">Oleh karena itu kami memberikan Sarana Promosi GRATIS untuk para pelaku 
 UMKM sehingga kami bisa membantu mengenalkan Produk – produk UMKM kita khususnya untuk wilayah Surabaya sehingga bisa membantu mengenalkan 
