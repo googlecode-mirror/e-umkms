@@ -36,7 +36,7 @@
   <li class="active"><a href="home.php">Home</a></li>
   <li class="active"><a href="about.php">About Us</a></li>
   <li class="active"><a href="#">Artikel</a></li>
-  <li class="active"><a href="#">Profil UMKMS</a></li>
+  <li class="active"><a href="profil.php">Profil UMKMS</a></li>
   <li class="active"><a href="#">Produk Jual</a></li>
   <li class="active"><a href="kontak.php">Kontak Kami</a></li>
   <li class="active"><a href="register.php">Sign Up</a></li>
