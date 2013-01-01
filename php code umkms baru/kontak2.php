@@ -24,7 +24,7 @@
   <li class="active"><a href="home2.php">Home</a></li>
   <li class="active"><a href="about2.php">About Us</a></li>
   <li class="active"><a href="#">Artikel</a></li>
-  <li class="active"><a href="#">Profil UMKMS</a></li>
+  <li class="active"><a href="profil2.php">Profil UMKMS</a></li>
   <li class="active"><a href="#">Produk Jual</a></li>
   <li class="active"><a href="kontak2.php">Kontak Kami</a></li>
   <li class="active"><a href="home.php">Logout</a></li>
