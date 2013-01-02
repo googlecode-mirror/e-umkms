@@ -45,7 +45,7 @@
 				<a href="#">Home</a>
 				</li>
 				<li><a href="#">Daftar</a></li>
-				<li><a href="#">Artikel</a></li>
+				<li><a href="artikel.php">Artikel</a></li>
 				</ul>
 				<h1>Website e-UMKMS  <small>e-Usaha Mikro Kecil Menengah Surabaya</small></h1>
 				</div>
