@@ -69,7 +69,7 @@
 				
 			</div>
 			<br /><br />
-			<div id="slider3">
+			<!-- <div id="slider3">
 				<div data-title="Quote" class="quote">
 					I do not fear death,<br />
 					in view of the fact that I had been dead<br />
@@ -88,21 +88,133 @@
 					Nature knows no indecencies;<br />
 					man invents them.<br />
 					- Mark Twain
-				</div>
+				</div> -->
+			<div class ="Sidebar" >
+				<h3 > 
 			</div>
-				<pre><code><center><h2>About Us<small><br>Ecommers-Usaha Mikro Kecil Menengah</br></small></h2></center>
-
-				<center><p>Ecommers-Usaha Mikro Kecil Menengah adalah Media Promosi Online khususnya terletak Surabaya.<br> Disini kami menghadirkan untuk memberikan solusi bagi yang terkendala pada masalah promosi untuk mengenalkan produk UMKM yang ada di Surabaya.</br>Oleh karena itu kami memberikan Sarana Promosi GRATIS untuk para pelaku UMKM sehingga kami bisa membantu mengenalkan Produk – produk UMKM kita<br>khususnya untuk wilayah Surabaya sehingga bisa<br> membantu mengenalkan Produk UMKM di Seluruh Surabaya yang mana secara Otomatis akan menambahkan pula omset penjualan bagi para pelaku UMKM kita. <br>Disini kami memberikan sarana promosi GRATIS sehingga kami bisa membantu para pelaku UMKM agar mereka dapat lagi bersemangat dengan menambah kreatifitas 
-				untuk menambah jumlah produk sehingga kota Surabaya pada khususnya bisa memperkenalkan Produk UMKM sendiri tanpa harus kita menunggu lebih 
-				lama lagi.<center>Saatnya UMKM berjaya di Negeri sendiri sehingga kita bersama-sama siap untuk menghadapi perdagangan bebas yang akan masuk ke surabaya.
+			<div class="content">
+      <!-- Start of Sigsiu Online Business Index 2 component -->
+    <div class="componentheading">
+      Direktori UKM Surabaya
+    </div><div class="sobi2"><center><div id="sobi2AlphaLinks"><a class="sobi2AlphaLinks" href="http://ukmsurabaya.com/index.php?option=com_sobi2&letter=A&Itemid=1">
+      A
+    </a>
+       | 
+    <a class="sobi2AlphaLinks" href="http://ukmsurabaya.com/index.php?option=com_sobi2&letter=B&Itemid=1">
+      B
+    </a>
+       | 
+    <a class="sobi2AlphaLinks" href="http://ukmsurabaya.com/index.php?option=com_sobi2&letter=C&Itemid=1">
+      C
+    </a>
+       | 
+    <a class="sobi2AlphaLinks" href="http://ukmsurabaya.com/index.php?option=com_sobi2&letter=D&Itemid=1">
+      D
+    </a>
+       | 
+    <a class="sobi2AlphaLinks" href="http://ukmsurabaya.com/index.php?option=com_sobi2&letter=E&Itemid=1">
+      E
+    </a>
+       | 
+    <a class="sobi2AlphaLinks" href="http://ukmsurabaya.com/index.php?option=com_sobi2&letter=F&Itemid=1">
+      F
+    </a>
+       | 
+    <a class="sobi2AlphaLinks" href="http://ukmsurabaya.com/index.php?option=com_sobi2&letter=G&Itemid=1">
+      G
+    </a>
+       | 
+    <a class="sobi2AlphaLinks" href="http://ukmsurabaya.com/index.php?option=com_sobi2&letter=H&Itemid=1">
+      H
+    </a>
+       | 
+    <a class="sobi2AlphaLinks" href="http://ukmsurabaya.com/index.php?option=com_sobi2&letter=I&Itemid=1">
+      I
+    </a>
+       | 
+    <a class="sobi2AlphaLinks" href="http://ukmsurabaya.com/index.php?option=com_sobi2&letter=J&Itemid=1">
+      J
+    </a>
+       | 
+    <a class="sobi2AlphaLinks" href="http://ukmsurabaya.com/index.php?option=com_sobi2&letter=K&Itemid=1">
+      K
+    </a>
+       | 
+    <a class="sobi2AlphaLinks" href="http://ukmsurabaya.com/index.php?option=com_sobi2&letter=L&Itemid=1">
+      L
+    </a>
+       | 
+    <a class="sobi2AlphaLinks" href="http://ukmsurabaya.com/index.php?option=com_sobi2&letter=M&Itemid=1">
+      M
+    </a>
+       | 
+    <a class="sobi2AlphaLinks" href="http://ukmsurabaya.com/index.php?option=com_sobi2&letter=N&Itemid=1">
+      N
+    </a>
+       | 
+    <a class="sobi2AlphaLinks" href="http://ukmsurabaya.com/index.php?option=com_sobi2&letter=O&Itemid=1">
+      O
+    </a>
+       | 
+    <a class="sobi2AlphaLinks" href="http://ukmsurabaya.com/index.php?option=com_sobi2&letter=P&Itemid=1">
+      P
+    </a>
+       | 
+    <a class="sobi2AlphaLinks" href="http://ukmsurabaya.com/index.php?option=com_sobi2&letter=Q&Itemid=1">
+      Q
+    </a>
+       | 
+    <a class="sobi2AlphaLinks" href="http://ukmsurabaya.com/index.php?option=com_sobi2&letter=R&Itemid=1">
+      R
+    </a>
+       | 
+    <a class="sobi2AlphaLinks" href="http://ukmsurabaya.com/index.php?option=com_sobi2&letter=S&Itemid=1">
+      S
+    </a>
+       | 
+    <a class="sobi2AlphaLinks" href="http://ukmsurabaya.com/index.php?option=com_sobi2&letter=T&Itemid=1">
+      T
+    </a>
+       | 
+    <a class="sobi2AlphaLinks" href="http://ukmsurabaya.com/index.php?option=com_sobi2&letter=U&Itemid=1">
+      U
+    </a>
+       | 
+    <a class="sobi2AlphaLinks" href="http://ukmsurabaya.com/index.php?option=com_sobi2&letter=V&Itemid=1">
+      V
+    </a>
+       | 
+    <a class="sobi2AlphaLinks" href="http://ukmsurabaya.com/index.php?option=com_sobi2&letter=W&Itemid=1">
+      W
+    </a>
+       | 
+    <a class="sobi2AlphaLinks" href="http://ukmsurabaya.com/index.php?option=com_sobi2&letter=X&Itemid=1">
+      X
+    </a>
+       | 
+    <a class="sobi2AlphaLinks" href="http://ukmsurabaya.com/index.php?option=com_sobi2&letter=Y&Itemid=1">
+      Y
+    </a>
+       | 
+    <a class="sobi2AlphaLinks" href="http://ukmsurabaya.com/index.php?option=com_sobi2&letter=Z&Itemid=1">
+      Z
+    </a>
+       | 
+    <a class="sobi2AlphaLinks" href="http://ukmsurabaya.com/index.php?option=com_sobi2&letter=0-9&Itemid=1">
+      0-9
+    </a></div></center>
+			<div class="content">
+				<h2>About Us<small><br>Ecommers-Usaha Mikro Kecil Menengah (E-UMKM)</br></small></h2></center>
+				
+				<p>Ecommers-Usaha Mikro Kecil Menengah adalah Media Promosi Online khususnya terletak Surabaya.<br> Disini kami menghadirkan untuk memberikan solusi bagi yang terkendala pada masalah promosi untuk mengenalkan produk UMKM yang ada di Surabaya.</br>Oleh karena itu kami memberikan Sarana Promosi GRATIS untuk para pelaku UMKM sehingga kami bisa membantu mengenalkan Produk – produk UMKM kita khususnya untuk wilayah Surabaya sehingga bisa membantu mengenalkan Produk UMKM di Seluruh Surabaya yang mana secara Otomatis akan menambahkan pula omset penjualan bagi para pelaku UMKM kita. Disini kami memberikan sarana promosi GRATIS sehingga kami bisa membantu para pelaku UMKM agar mereka dapat lagi bersemangat dengan menambah kreatifitas 
+				untuk menambah jumlah produk sehingga kota Surabaya pada khususnya bisa memperkenalkan Produk UMKM sendiri tanpa harus kita menunggu lebih lama lagi. Saatnya UMKM berjaya di Negeri sendiri sehingga kita bersama-sama siap untuk menghadapi perdagangan bebas yang akan masuk ke surabaya.
 				Saatnya Memperkenalkan Produk UMKM kita agar bisa mampu bersaing di surabaya Sendiri ini adalah salah satu pembuktian bahwa Produk 
 				UMKM kita tidaklah kalah dengan Produk Luar. Melalui UMKM Surabaya ini kami berniat membantu untuk mempromosikan Produk UMKM khususnya 
 				Surabaya dan sekitarnya sehingga saatnya untuk Bagi Anda yang ingin memperluas pemasaran hingga di Seluruh Indonesia disinilah tempatnya 
-				Atau yang ingin menambah Omzet penjualan untuk produknya Ayo bergabung bersama kami di UMKM Surabaya.</center></p>
-				<br>
-
-				</code></pre>				
+				Atau yang ingin menambah Omzet penjualan untuk produknya Ayo bergabung bersama kami di UMKM Surabaya.</p>
+			</div>
+			<br>
 				</ul>
-				<center><font color ="red" size="2"><b> Copyright e-Usaha Mikro Kecil Menengah Surabaya | Dinas Koperasi Mikro Kecil Menengah <b>
+				<center><hr><font color ="white" size="2"><b> Copyright e-Usaha Mikro Kecil Menengah Surabaya | Dinas Koperasi Mikro Kecil Menengah</hr> <b>
 </body>
 </html>
