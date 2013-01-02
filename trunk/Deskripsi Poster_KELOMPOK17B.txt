@@ -1,0 +1,30 @@
+*Deskripsi*
+E-UMKMS (E-Commerce Usaha Mikro, Kecil dan Menengah di Kota Surabaya) adalah perangkat lunak yang berupa website e-commerce. E-UMKMS ditujukan untuk para pelaku bisnis UMKM (Usaha Mikro, Kecil dan Menengah) di Surabaya. Dengan menggunakan E-UMKMS, para pelaku bisnis UMKM di kota Surabaya dapat memasarkan produknya secara online. 
+
+
+*Teknologi yang digunakan*
+E-UMKM dibangun dengan bahasa pemrograman PHP dan menggunakan template dari twitter bootstrap. Selain itu juga menggunakan XAMPP dan MySQL.
+
+
+*Keunggulan dari produk sejenis*
+1. Tampilan Web menarik dan user friendly
+
+2. Didesain khusus untuk para pelaku bisnis UMKM di Surabaya, tetapi tidak menutup kemungkinan untuk dikembangkan menjadi website e-commerce bagi UMKM di kota-kota lain.
+
+3. Menyediakan fitur-fitur sebagai berikut :
+	- Profil UMKM
+	- Pencarian 
+	- Add to Cart, Edit Shopping Cart
+
+4. Data bersifat real time
+
+5. Mempermudah UMKM melakukan pencatatan hasil penjualan 
+
+
+*List Pembuat*
+1. Prima Arifandi	5210100049
+2. Muhammad Yordanis S.	5210100104
+3. Putri Cahyaning B.	5210100142
+
+
+
