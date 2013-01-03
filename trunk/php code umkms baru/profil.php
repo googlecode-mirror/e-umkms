@@ -35,7 +35,7 @@
 <ul class="nav nav-pills">
   <li class="active"><a href="home.php">Home</a></li>
   <li class="active"><a href="about.php">About Us</a></li>
-  <li class="active"><a href="#">Artikel</a></li>
+  <li class="active"><a href="artikel.php">Artikel</a></li>
   <li class="active"><a href="profil.php">Profil UMKMS</a></li>
   <li class="active"><a href="#">Produk Jual</a></li>
   <li class="active"><a href="kontak.php">Kontak Kami</a></li>
