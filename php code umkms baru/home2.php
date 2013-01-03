@@ -23,9 +23,9 @@
 <ul class="nav nav-pills">
   <li class="active"><a href="home2.php">Home</a></li>
   <li class="active"><a href="about2.php">About Us</a></li>
-  <li class="active"><a href="#">Artikel</a></li>
+  <li class="active"><a href="artikel2.php">Artikel</a></li>
   <li class="active"><a href="profil2.php">Profil UMKMS</a></li>
-  <li class="active"><a href="#">Produk Jual</a></li>
+  <li class="active"><a href="products.php">Produk Jual</a></li>
   <li class="active"><a href="kontak2.php">Kontak Kami</a></li>
   <li class="active"><a href="home.php">Logout</a></li>
 </ul>
@@ -65,9 +65,9 @@ Sudah saatnya pula untuk memperluas pemasaran produk UMKM sehingga dapat menamba
 <body style="background-color:yellow;">
 <form method="POST" action="register.php">  
 
-<footer><p style="font-family:Arial;"><center><strong><marquee behavior=alternate>
-
-	Website ini bukan merupakan website resmi UMKM Surabaya, hanya merupakan web tugas kuliah
+<footer><p style="font-family:Arial;">
+<center><strong><marquee behavior=alternate>
+Website ini bukan merupakan website resmi UMKM Surabaya, hanya merupakan web tugas kuliah
 </marquee></strong></center></p></footer>
 
 </body>  
