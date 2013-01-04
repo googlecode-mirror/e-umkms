@@ -17,7 +17,22 @@
 
 <link rel="stylesheet" type="css/text" href="../bootstrap.css" />
 <h1>
-<center><img src="header.jpg" /></center>
+<marquee direction=down loop=true height="50"><center><img src="header.jpg" /></center></marquee>
+<script type="text/javascript">
+function UR_Start() 
+{
+	UR_Nu = new Date;
+	UR_Indhold = showFilled(UR_Nu.getHours()) + ":" + showFilled(UR_Nu.getMinutes()) + ":" + showFilled(UR_Nu.getSeconds());
+	document.getElementById("ur").innerHTML = UR_Indhold;
+	setTimeout("UR_Start()",1000);
+}
+function showFilled(Value) 
+{
+	return (Value > 9) ? "" + Value : "0" + Value;
+}
+
+</script>
+<font id="ur" size="6" face="Trebuchet MS, Verdana, Arial, sans-serif" color=pink></font>
 </h1>
 
 <ul class="nav nav-pills">
@@ -25,7 +40,7 @@
   <li class="active"><a href="about2.php">About Us</a></li>
   <li class="active"><a href="artikel2.php">Artikel</a></li>
   <li class="active"><a href="profil2.php">Profil UMKMS</a></li>
-  <li class="active"><a href="#">Produk Jual</a></li>
+  <li class="active"><a href="products.php">Produk Jual</a></li>
   <li class="active"><a href="kontak2.php">Kontak Kami</a></li>
   <li class="active"><a href="home.php">Logout</a></li>
 </ul>
@@ -65,7 +80,7 @@ Tak lupa kami mengucapkan terima kasih kepada semua pihak yang telah memberikan 
 </center>
 </br>
 
-<body style="background-color:yellow;">
+<body onload="UR_Start()"  style="background-color:yellow;">
 <form method="POST" action="register.php">  
 
 <footer><p style="font-family:Arial;"><center><strong><marquee behavior=alternate>

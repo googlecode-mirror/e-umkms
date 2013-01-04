@@ -1,9 +1,14 @@
 <?php
-	session_start();
-	if (!isset ($_SESSION['register'])){
-		header("location: home.php");
-		exit();
-	}
+session_start();
+
+
+if(!isset($_SESSION['userid'])){
+    die("Anda belum login");
+}
+
+if($_SESSION['level']!="user"){
+    die("Anda bukan user");
+}
 ?>
 
 <html>
@@ -12,12 +17,26 @@
 
 <title>UMKM-SBY</title>
 <link rel="shortcut icon" href="favicon1.ico">
-
 </head>
 
 <link rel="stylesheet" type="css/text" href="../bootstrap.css" />
 <h1>
-<center><img src="header.jpg" /></center>
+<marquee direction=down loop=true height="50"><center><img src="header.jpg" /></center></marquee>
+<script type="text/javascript">
+function UR_Start() 
+{
+	UR_Nu = new Date;
+	UR_Indhold = showFilled(UR_Nu.getHours()) + ":" + showFilled(UR_Nu.getMinutes()) + ":" + showFilled(UR_Nu.getSeconds());
+	document.getElementById("ur").innerHTML = UR_Indhold;
+	setTimeout("UR_Start()",1000);
+}
+function showFilled(Value) 
+{
+	return (Value > 9) ? "" + Value : "0" + Value;
+}
+
+</script>
+<font id="ur" size="6" face="Trebuchet MS, Verdana, Arial, sans-serif" color=pink></font>
 </h1>
 
 <ul class="nav nav-pills">
@@ -62,7 +81,7 @@ Sudah saatnya pula untuk memperluas pemasaran produk UMKM sehingga dapat menamba
 </center>
 </br>
 
-<body style="background-color:yellow;">
+<body onload="UR_Start()" style="background-color:yellow;">
 <form method="POST" action="register.php">  
 
 <footer><p style="font-family:Arial;">

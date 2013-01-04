@@ -9,20 +9,35 @@
 
 <link rel="stylesheet" type="css/text" href="../bootstrap.css" />
 <h1>
-<center><img src="header.jpg" /></center>
+<marquee direction=down loop=true height="50"><center><img src="header.jpg" /></center></marquee>
+<script type="text/javascript">
+function UR_Start() 
+{
+	UR_Nu = new Date;
+	UR_Indhold = showFilled(UR_Nu.getHours()) + ":" + showFilled(UR_Nu.getMinutes()) + ":" + showFilled(UR_Nu.getSeconds());
+	document.getElementById("ur").innerHTML = UR_Indhold;
+	setTimeout("UR_Start()",1000);
+}
+function showFilled(Value) 
+{
+	return (Value > 9) ? "" + Value : "0" + Value;
+}
 
-<form id="form1" name="form1" method="post" action="login.php" align=right>
+</script>
+<font id="ur" size="6" face="Trebuchet MS, Verdana, Arial, sans-serif" color=pink></font>
+
+<form action="log.php?op=in" method="post" align=right>
           <tr>
-            <td><input name="user" type="text" id="user" value="username" /></td>
+            <td><input type="text" name="userid" value="userid"></td>
           </tr>
           <tr>
-            <td><input name="pass" type="password" id="pass" value="password" /></td>
+            <td><input type="password" name="psw" value="password"></td>
           </tr>
 		  
 </tr>
           <tr>
             <td>&nbsp;</td>
-            <td><input type="submit" name="Submit" value="Login" /></td>
+            <td><input type="submit" value="Login"></td>
           </tr>
           <tr>
             <td>&nbsp;</td>
@@ -37,7 +52,6 @@
   <li class="active"><a href="about.php">About Us</a></li>
   <li class="active"><a href="artikel.php">Artikel</a></li>
   <li class="active"><a href="profil.php">Profil UMKMS</a></li>
-  <li class="active"><a href="#">Produk Jual</a></li>
   <li class="active"><a href="kontak.php">Kontak Kami</a></li>
   <li class="active"><a href="register.php">Sign Up</a></li>
   <li class="active"><a href="#">Lupa Password</a></li>
@@ -75,7 +89,7 @@ Sudah saatnya pula untuk memperluas pemasaran produk UMKM sehingga dapat menamba
 </center>
 </br>
 
-<body style="background-color:yellow;">
+<body onload="UR_Start()"  style="background-color:yellow;">
 <form method="POST" action="register.php">  
 
 <footer><p style="font-family:Arial;"><center><strong><marquee behavior=alternate>
