@@ -4967,7 +4967,7 @@ a.badge:hover {
   width: 500;
 }
 .hero-unit h1 {
-  margin-bottom: 0;
+  margin-bottom: 5;
   font-size: 60px;
   line-height: 1;
   color: inherit;
