@@ -4952,8 +4952,6 @@ a.badge:hover {
 }
 .hero-unit {
   padding: 0px;
-  padding-top:0px;
-  padding-bottom:5px;
   margin-bottom: 30px;
   font-size: 18px;
   font-weight: 200;
