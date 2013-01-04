@@ -9,7 +9,22 @@
 
 <link rel="stylesheet" type="css/text" href="../bootstrap.css" />
 <h1>
-<center><img src="header.jpg" /></center>
+<marquee direction=down loop=true height="50"><center><img src="header.jpg" /></center></marquee>
+<script type="text/javascript">
+function UR_Start() 
+{
+	UR_Nu = new Date;
+	UR_Indhold = showFilled(UR_Nu.getHours()) + ":" + showFilled(UR_Nu.getMinutes()) + ":" + showFilled(UR_Nu.getSeconds());
+	document.getElementById("ur").innerHTML = UR_Indhold;
+	setTimeout("UR_Start()",1000);
+}
+function showFilled(Value) 
+{
+	return (Value > 9) ? "" + Value : "0" + Value;
+}
+
+</script>
+<font id="ur" size="6" face="Trebuchet MS, Verdana, Arial, sans-serif" color=pink></font>
 
 <form id="form1" name="form1" method="post" action="login.php" align=right>
           <tr>
@@ -35,9 +50,8 @@
 <ul class="nav nav-pills">
   <li class="active"><a href="home.php">Home</a></li>
   <li class="active"><a href="about.php">About Us</a></li>
-  <li class="active"><a href="#">Artikel</a></li>
+  <li class="active"><a href="artikel.php">Artikel</a></li>
   <li class="active"><a href="profil.php">Profil UMKMS</a></li>
-  <li class="active"><a href="#">Produk Jual</a></li>
   <li class="active"><a href="kontak.php">Kontak Kami</a></li>
   <li class="active"><a href="register.php">Sign Up</a></li>
   <li class="active"><a href="#">Lupa Password</a></li>
@@ -79,9 +93,11 @@ DEALER/ RESELLER WELCOME...
 <img src="vp2.jpg" />
 <img src="vp3.jpg" />
 <img src="vp4.jpg" />
-<body style="background-color:yellow;">
+<body onload="UR_Start()"  style="background-color:yellow;">
 <form method="POST" action="register.php">  
-
+</br>
+<center><input type="button" value="Kembali ke Menu Profil UMKM" onclick="window.location='profil.php'" /></center>
+</br>
 <footer><p style="font-family:Arial;"><center><strong><marquee behavior=alternate>
 
 	Website ini bukan merupakan website resmi UMKM Surabaya, hanya merupakan web tugas kuliah
