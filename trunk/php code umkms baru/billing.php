@@ -61,9 +61,24 @@
 </head>
 <h1>
 <marquee direction=down loop=true height="50"><center><img src="header.jpg" /></center></marquee>
+<script type="text/javascript">
+function UR_Start() 
+{
+	UR_Nu = new Date;
+	UR_Indhold = showFilled(UR_Nu.getHours()) + ":" + showFilled(UR_Nu.getMinutes()) + ":" + showFilled(UR_Nu.getSeconds());
+	document.getElementById("ur").innerHTML = UR_Indhold;
+	setTimeout("UR_Start()",1000);
+}
+function showFilled(Value) 
+{
+	return (Value > 9) ? "" + Value : "0" + Value;
+}
+
+</script>
+<font id="ur" size="6" face="Trebuchet MS, Verdana, Arial, sans-serif" color=pink></font>
 </h1>
-<body style="background-color:yellow;">
-<form name="form1" onsubmit="return validate()" action="kontinyu.php">
+<body onload="UR_Start()"  style="background-color:yellow;">
+<form name="form1" onsubmit="return validate()">
     <input type="hidden" name="command" />
 	<div align="center">
         <h1 align="center">Info Billing</h1>
@@ -73,10 +88,12 @@
             <tr><td>Alamat:</td><td><input type="text" name="address" /></td></tr>
             <tr><td>Email:</td><td><input type="text" name="email" /></td></tr>
             <tr><td>Telepon:</td><td><input type="text" name="phone" /></td></tr>
-            <tr><td>&nbsp;</td><td><input type="submit" value="Place Order" /></td></tr>
+            <tr><td>&nbsp;</td><td><input type="submit" value="Konfirmasikan Order" /></td></tr>
         </table>
 	</div>
 </form>
+</br>
+<center><input type="button" value="Selesai Belanja" onclick="window.location='home2.php'" /></center>
 <footer><p style="font-family:Arial;">
 <center><strong><marquee behavior=alternate>
 Website ini bukan merupakan website resmi UMKM Surabaya, hanya merupakan web tugas kuliah
