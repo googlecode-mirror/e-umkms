@@ -37,6 +37,15 @@
 	</script>
 </head>
 <body>
+		<form id="form1" name="form1" method="post" action="login.php" align=right>
+          <tr>
+            <td><h4>Login</h4><label class="control-label" for="inputUsername">Username & Password</label>
+			<input name="user" type="text" id="user" placeholder="username" value="username" /></td>
+          </tr>
+          <tr>
+            <td><input type="password" name="password" placeholder="Password"></td>
+			<button type="submit" class="btn">Sign in</button>
+          </tr>
 	<div id="page-wrap">
 		<div id="content">
 			    <div class="page-header">
@@ -46,6 +55,8 @@
 				</li>
 				<li><a href="#">Daftar</a></li>
 				<li><a href="artikel.php">Artikel</a></li>
+				<li><a href="xx">Profil Usaha Mikro</a></li>
+				<li><a href="">Kontak Kami</a></li>
 				</ul>
 				<h1>Website e-UMKMS  <small>e-Usaha Mikro Kecil Menengah Surabaya</small></h1>
 				</div>
@@ -215,6 +226,6 @@
 			</div>
 			<br>
 				</ul>
-				<center><hr><font color ="white" size="2"><b> Copyright e-Usaha Mikro Kecil Menengah Surabaya | Dinas Koperasi Mikro Kecil Menengah</hr> <b>
+				<center><hr><font color ="white" size="2"><b> Copyright e-Usaha Mikro Kecil Menengah Surabaya | Dinas Koperasi Mikro Kecil Menengah</hr></br></br> <b>
 </body>
 </html>
