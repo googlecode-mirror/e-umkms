@@ -85,11 +85,13 @@ CinderellaShop adalah solusi termudah untuk berbelanja lengkap, menghemat waktu 
 </br>
 <center><input type="button" value="Kembali ke Menu Profil UMKM" onclick="window.location='profil.php'" /></center>
 </br>
+<center><a href="ymsgr:sendIM?calamity_103"> <img src="http://opi.yahoo.com/online?u=calamity_103&m=g&t=14" border="0" alt="" style="opacity: 1;"> </a></center>
 <footer><p style="font-family:Arial;"><center><strong><marquee behavior=alternate>
 
 	Website ini bukan merupakan website resmi UMKM Surabaya, hanya merupakan web tugas kuliah
 </marquee></strong></center></p></footer>
-
+</br>
+<marquee direction=down loop=true height="50"><center><img src="foot.jpg" /></center></marquee>
 
 </body>  
 </html>

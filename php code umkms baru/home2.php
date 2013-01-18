@@ -10,7 +10,6 @@ if($_SESSION['level']!="user"){
     die("Anda bukan user");
 }
 ?>
-
 <html>
 <head> <link href="bootstrap.css" rel="stylesheet" type="text/css">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
@@ -22,6 +21,9 @@ if($_SESSION['level']!="user"){
 <link rel="stylesheet" type="css/text" href="../bootstrap.css" />
 <h1>
 <marquee direction=down loop=true height="50"><center><img src="header.jpg" /></center></marquee>
+<?$userid=$_COOKIE['userid'];?>
+<font size=+2 face="arial" color=magenta>Selamat datang di e-UMKMS,  <?php echo"$userid";?></font>
+</br>
 <script type="text/javascript">
 function UR_Start() 
 {
@@ -46,6 +48,8 @@ function showFilled(Value)
   <li class="active"><a href="profil2.php">Profil UMKMS</a></li>
   <li class="active"><a href="products.php">Produk Jual</a></li>
   <li class="active"><a href="kontak2.php">Kontak Kami</a></li>
+  <li class="active"><a href="komen.php">Saran dan Komentar</a></li>
+  <li class="active"><a href="search.php">Cari</a></li>
   <li class="active"><a href="home.php">Logout</a></li>
 </ul>
 </br>
@@ -83,12 +87,13 @@ Sudah saatnya pula untuk memperluas pemasaran produk UMKM sehingga dapat menamba
 
 <body onload="UR_Start()" style="background-color:yellow;">
 <form method="POST" action="register.php">  
-
+<center><a href="ymsgr:sendIM?calamity_103"> <img src="http://opi.yahoo.com/online?u=calamity_103&m=g&t=14" border="0" alt="" style="opacity: 1;"> </a></center>
 <footer><p style="font-family:Arial;">
 <center><strong><marquee behavior=alternate>
 Website ini bukan merupakan website resmi UMKM Surabaya, hanya merupakan web tugas kuliah
 </marquee></strong></center></p></footer>
-
+</br>
+<marquee direction=down loop=true height="50"><center><img src="foot.jpg" /></center></marquee>
 </body>  
 </html>
 

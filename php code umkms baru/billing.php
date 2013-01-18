@@ -61,6 +61,9 @@
 </head>
 <h1>
 <marquee direction=down loop=true height="50"><center><img src="header.jpg" /></center></marquee>
+<?$userid=$_COOKIE['userid'];?>
+<font size=+2 face="arial" color=magenta>Selamat datang di e-UMKMS,  <?php echo"$userid";?></font>
+</br>
 <script type="text/javascript">
 function UR_Start() 
 {
@@ -98,5 +101,7 @@ function showFilled(Value)
 <center><strong><marquee behavior=alternate>
 Website ini bukan merupakan website resmi UMKM Surabaya, hanya merupakan web tugas kuliah
 </marquee></strong></center></p></footer>
+</br>
+<marquee direction=down loop=true height="50"><center><img src="foot.jpg" /></center></marquee>
 </body>
 </html>

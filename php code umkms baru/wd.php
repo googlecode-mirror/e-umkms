@@ -95,7 +95,8 @@ informasi produk dan harga, dan pelayanan.
 
 	Website ini bukan merupakan website resmi UMKM Surabaya, hanya merupakan web tugas kuliah
 </marquee></strong></center></p></footer>
-
+</br>
+<marquee direction=down loop=true height="50"><center><img src="foot.jpg" /></center></marquee>
 
 </body>  
 </html>
