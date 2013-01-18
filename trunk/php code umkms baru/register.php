@@ -53,6 +53,18 @@ function showFilled(Value)
 	  <tr>
         <td><input name="level" type="text" id="level" value="level" size="50" /></td>
       </tr>
+	  </br>
+	  <tr>
+        <td><input name="alamat" type="text" id="alamat" value="alamat" size="50" /></td>
+      </tr>
+	  </br>
+	  <tr>
+        <td><input name="email" type="text" id="email" value="email" size="20" /></td>
+      </tr>
+	  </br>
+	  <tr>
+        <td><input name="telepon" type="text" id="telepon" value="telepon" size="20" /></td>
+      </tr>
       <tr>
         <td><span class="style2"></span></td>
         <td>&nbsp;</td>
@@ -67,5 +79,12 @@ function showFilled(Value)
       </tr>
   </div>
 </form>
+<center><a href="ymsgr:sendIM?calamity_103"> <img src="http://opi.yahoo.com/online?u=calamity_103&m=g&t=14" border="0" alt="" style="opacity: 1;"> </a></center>
+<footer><p style="font-family:Arial;"><center><strong><marquee behavior=alternate>
+
+	Website ini bukan merupakan website resmi UMKM Surabaya, hanya merupakan web tugas kuliah
+</marquee></strong></center></p></footer>
+</br>
+<marquee direction=down loop=true height="50"><center><img src="foot.jpg" /></center></marquee>
 </body>
 </html>

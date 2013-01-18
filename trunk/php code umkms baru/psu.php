@@ -103,12 +103,13 @@ mempertimbangkan pembangunan (khususnya ekonomi) lebih luas. Konsep pembangunan 
 </br>
 <body onload="UR_Start()"  style="background-color:yellow;">
 <form method="POST" action="register.php">  
-
+<center><a href="ymsgr:sendIM?calamity_103"> <img src="http://opi.yahoo.com/online?u=calamity_103&m=g&t=14" border="0" alt="" style="opacity: 1;"> </a></center>
 <footer><p style="font-family:Arial;"><center><strong><marquee behavior=alternate>
 
 	Website ini bukan merupakan website resmi UMKM Surabaya, hanya merupakan web tugas kuliah
 </marquee></strong></center></p></footer>
-
+</br>
+<marquee direction=down loop=true height="50"><center><img src="foot.jpg" /></center></marquee>
 
 </body>  
 </html>
